@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+tatic void getNumbers(int a, int b){
+    Console.WriteLine("Please enter number A: ");
+    int result = a + b;
+}
